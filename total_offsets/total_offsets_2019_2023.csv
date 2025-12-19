@@ -1,0 +1,148 @@
+district,count_offset,total_amount_offset,year
+620 - Antelope Valley CCD                ,129,19460.63,2023
+110 - Butte-Glenn CCD                    ,873,172975.36,2023
+810 - Cerritos CCD                       ,1028,261539.18,2023
+530 - Merced CCD                         ,1226,255185.95,2023
+860 - North Orange County CCD            ,968,198888.81,2023
+060 - Palomar CCD                        ,348,114556.95,2023
+770 - Pasadena Area CCD                  ,843,241441.77,2023
+160 - Redwoods CCD                       ,86,19453.9,2023
+960 - Riverside CCD                      ,745,172234.88,2023
+260 - Sonoma County JCD                  ,2072,408080.88,2023
+580 - West Hills CCD                     ,328,92003.64999999999,2023
+590 - Yosemite CCD                       ,5,4270.54,2023
+620 - Antelope Valley CCD                ,833,135142.24,2022
+110 - Butte-Glenn CCD                    ,254,46518.59,2022
+810 - Cerritos CCD                       ,2400,641663.83,2022
+820 - Citrus CCD                         ,1522,267632.98,2022
+720 - El Camino CCD                      ,2749,383468.15,2022
+120 - Feather River CCD                  ,26,7575,2022
+530 - Merced CCD                         ,3521,679221.14,2022
+860 - North Orange County CCD            ,2318,423065.28,2022
+060 - Palomar CCD                        ,724,207643.56,2022
+770 - Pasadena Area CCD                  ,2395,624910.16,2022
+980 - San Bernardino CCD                 ,54,20222.23,2022
+660 - Santa Clarita CCD                  ,71,13787.22,2022
+170 - Shasta-Tehama-Trinity Joint CCD    ,194,57578.61,2022
+180 - Siskiyou Joint CCD                 ,12,3664.19,2022
+680 - Ventura County CCD                 ,906,270401.99,2022
+990 - Victor Valley CCD                  ,1190,317368.15,2022
+580 - West Hills CCD                     ,1625,420971.84,2022
+590 - Yosemite CCD                       ,4,3677.19,2022
+620 - Antelope Valley CCD                ,249,34315.05,2021
+810 - Cerritos CCD                       ,175,29549.1,2021
+480 - Chabot-Las Positas CCD             ,82,11978.43,2021
+820 - Citrus CCD                         ,212,22817.01,2021
+310 - Contra Costa CCD                   ,986,167658.88,2021
+930 - Desert CCD                         ,133,10282.85,2021
+720 - El Camino CCD                      ,585,60986.59,2021
+450 - Hartnell CCD                       ,92,9651.43,2021
+740 - Los Angeles CCD                    ,41,24738.23,2021
+230 - Los Rios CCD                       ,286,51572.12,2021
+530 - Merced CCD                         ,452,61321.45,2021
+050 - MiraCosta CCD                      ,58,10072.25,2021
+850 - Mt. San Antonio CCD                ,125,11331.97,2021
+240 - Napa Valley CCD                    ,24,4699.37,2021
+860 - North Orange County CCD            ,389,47085.14,2021
+430 - Ohlone CCD                         ,26,1299.49,2021
+060 - Palomar CCD                        ,46,10376.65,2021
+770 - Pasadena Area CCD                  ,434,80706.89999999999,2021
+160 - Redwoods CCD                       ,174,27109.19,2021
+960 - Riverside CCD                      ,367,43606.36,2021
+980 - San Bernardino CCD                 ,14,2451.16,2021
+470 - San José-Evergreen CCD             ,351,55454.99,2021
+660 - Santa Clarita CCD                  ,18,1948.44,2021
+560 - Sequoias CCD                       ,479,51880.66,2021
+170 - Shasta-Tehama-Trinity Joint CCD    ,38,4832.11,2021
+180 - Siskiyou Joint CCD                 ,7,3642.1,2021
+260 - Sonoma County JCD                  ,706,84560.69,2021
+890 - South Orange County CCD            ,2,685.42,2021
+570 - State Center CCD                   ,1451,185204.92,2021
+680 - Ventura County CCD                 ,136,30889.53,2021
+580 - West Hills CCD                     ,234,44804.71,2021
+690 - West Kern CCD                      ,46,6290.21,2021
+620 - Antelope Valley CCD                ,698,100947.27,2020
+110 - Butte-Glenn CCD                    ,712,136866.57,2020
+810 - Cerritos CCD                       ,533,150780.37,2020
+480 - Chabot-Las Positas CCD             ,285,57299.72,2020
+920 - Chaffey CCD                        ,645,83549.59,2020
+820 - Citrus CCD                         ,440,68654.61,2020
+310 - Contra Costa CCD                   ,2551,599796.09,2020
+720 - El Camino CCD                      ,1055,147431.82,2020
+120 - Feather River CCD                  ,9,1572,2020
+020 - Grossmont-Cuyamaca CCD             ,628,79241.39,2020
+030 - Imperial CCD                       ,572,107795.98,2020
+740 - Los Angeles CCD                    ,239,82065.75,2020
+230 - Los Rios CCD                       ,734,158533.25,2020
+530 - Merced CCD                         ,368,56103.41,2020
+050 - MiraCosta CCD                      ,243,52698.24,2020
+850 - Mt. San Antonio CCD                ,771,121427.88,2020
+940 - Mt. San Jacinto CCD                ,572,62584.69,2020
+860 - North Orange County CCD            ,800,138502.86,2020
+430 - Ohlone CCD                         ,51,7034.22,2020
+060 - Palomar CCD                        ,533,138237.16,2020
+770 - Pasadena Area CCD                  ,913,240507.41,2020
+160 - Redwoods CCD                       ,13,3228.93,2020
+880 - Rio Hondo CCD                      ,868,188193.6,2020
+960 - Riverside CCD                      ,4119,500904.05,2020
+980 - San Bernardino CCD                 ,39,11303.21,2020
+470 - San José-Evergreen CCD             ,902,171038.2,2020
+640 - San Luis Obispo County CCD         ,613,130354.08,2020
+660 - Santa Clarita CCD                  ,48,12241.39,2020
+560 - Sequoias CCD                       ,2139,245072.77,2020
+170 - Shasta-Tehama-Trinity Joint CCD    ,250,61376.28,2020
+180 - Siskiyou Joint CCD                 ,35,8308.290000000001,2020
+260 - Sonoma County JCD                  ,1335,195483.86,2020
+890 - South Orange County CCD            ,7,2196,2020
+090 - Southwestern CCD                   ,5,436.86,2020
+680 - Ventura County CCD                 ,543,109388.67,2020
+990 - Victor Valley CCD                  ,312,82065.96000000001,2020
+580 - West Hills CCD                     ,593,142053.6,2020
+690 - West Kern CCD                      ,159,29012.85,2020
+590 - Yosemite CCD                       ,187,31687.68,2020
+620 - Antelope Valley CCD                ,1044,121797.55,2019
+910 - Barstow CCD                        ,261,51439.64,2019
+110 - Butte-Glenn CCD                    ,1122,173674.68,2019
+810 - Cerritos CCD                       ,1226,225225.58,2019
+480 - Chabot-Las Positas CCD             ,484,87753.42,2019
+920 - Chaffey CCD                        ,842,75902.96000000001,2019
+820 - Citrus CCD                         ,778,97417.41,2019
+710 - Compton CCD                        ,1540,174765.29,2019
+310 - Contra Costa CCD                   ,4929,946481.66,2019
+930 - Desert CCD                         ,722,73365.83,2019
+720 - El Camino CCD                      ,2409,284648.46,2019
+120 - Feather River CCD                  ,86,13621.6,2019
+420 - Foothill-De Anza CCD               ,2,234,2019
+440 - Gavilan Joint CCD                  ,416,76472.92999999999,2019
+020 - Grossmont-Cuyamaca CCD             ,1018,119756.83,2019
+030 - Imperial CCD                       ,1389,194095.55,2019
+740 - Los Angeles CCD                    ,159,60107.75,2019
+230 - Los Rios CCD                       ,1361,212344.77,2019
+530 - Merced CCD                         ,1256,150826.98,2019
+050 - MiraCosta CCD                      ,276,52740.45,2019
+850 - Mt. San Antonio CCD                ,1313,185860.74,2019
+940 - Mt. San Jacinto CCD                ,929,74125.22,2019
+240 - Napa Valley CCD                    ,2,295.6,2019
+860 - North Orange County CCD            ,1800,237043.59,2019
+430 - Ohlone CCD                         ,178,12430.26,2019
+060 - Palomar CCD                        ,819,158582.12,2019
+770 - Pasadena Area CCD                  ,1701,339027.06,2019
+160 - Redwoods CCD                       ,66,15595.62,2019
+880 - Rio Hondo CCD                      ,3338,630274.9399999999,2019
+980 - San Bernardino CCD                 ,76,23986.23,2019
+360 - San Francisco CCD                  ,3509,573719.4399999999,2019
+470 - San José-Evergreen CCD             ,2041,316390.2,2019
+640 - San Luis Obispo County CCD         ,558,103762.62,2019
+660 - Santa Clarita CCD                  ,125,22282.98,2019
+560 - Sequoias CCD                       ,3113,302863.1,2019
+170 - Shasta-Tehama-Trinity Joint CCD    ,758,129340.24,2019
+180 - Siskiyou Joint CCD                 ,36,5874.16,2019
+260 - Sonoma County JCD                  ,6620,895111.5,2019
+890 - South Orange County CCD            ,3,719.99,2019
+090 - Southwestern CCD                   ,1665,256591.89,2019
+570 - State Center CCD                   ,5475,672321.2,2019
+680 - Ventura County CCD                 ,1440,176738.28,2019
+990 - Victor Valley CCD                  ,923,196424.96,2019
+580 - West Hills CCD                     ,926,159439.85,2019
+690 - West Kern CCD                      ,183,28298.57,2019
+590 - Yosemite CCD                       ,322,39441.65,2019
