@@ -26,6 +26,23 @@ The data used in this project has been collected from the following sources:
 3. Next Gen Policy Nonprofit
 - https://www.nextgenpolicy.org/
 
+## FAIR Principles
+
+### Findable
+
+Files provided are in standard .csv format. These are operable by systems such as Jupyter lab, python, and R. Institutions are marked with unique unit ID's in IPEDS data, while the same unique unit ID's are implemented in the off set files included in this repository. This allows for a matching of institutions across data points.
+
+### Accessible
+
+The offset files provided above must be downloaded and placed into a local repository. In order to access these files when running the merge file, users will need to paste in the name of their own local repository. It is a good practice to have IPEDS data downloaded and stored in the same local repository location.
+
+### Interoperable
+
+The code provided in this repository is mainly aimed at creating file merges between data that UC Merced's HERE Lab and I have collected, combined with IPEDS data on institutional characteristics. Additional data will be added over time, with this README being updated when necessary.
+
+### Reusable
+
+The names of files, links, and variables are either a 1:1 duplicate of the names originally provided or, where necessary, are renamed within the provided code file for clariety.
 
 ## Data plan
 
@@ -41,7 +58,7 @@ I hypothesize the above pattern because universities with larger Hispanic or Bla
 
 HYPOTHESIS 3: COVID-19 may acts as a period in time where there is a change in institutional policies and practices with regards to the collection of institutional debts.
 
-I hypothesize the above pattern because differences in governance of instituitions can be exacerbated during moments of crisis due to the different positions and networks that governing leaders are embedded in at moments of crisis for institutions (???????)
+I hypothesize the above pattern because differences in governance of instituitions can be exacerbated during moments of crisis due to the different positions and networks that governing leaders are embedded in at moments of crisis for institutions (Lara-Millán 2021).
 
 ## Design Plan
 
@@ -119,3 +136,14 @@ Records Access requests (PRA's) made from May 2024 - May 2025. Requests were mad
 Franchise Tax Board (FTB) office, the State Controller’s Office, the University of California Office
 of the President, the California Community Colleges Chancellor’s Officer, and the California State
 Universities Office of the Chancellor.
+
+#### Sources
+
+Eaton, Charlie. 2022. Bankers in the Ivory Tower: The Troubling Rise of Financiers in US Higher Education. University of Chicago Press.
+
+Hamilton, Laura T., and Kelly Nielsen. 2021. Broke: The Racial Consequences of Underfunding Public Universities. Chicago (Ill.) London: The University of Chicago press.
+
+Lara-Millán, Armando. 2021. Redistributing the Poor: Jails, Hospitals, and the Crisis of Law and Fiscal Austerity. New York (N.Y.): Oxford University press.
+
+
+
